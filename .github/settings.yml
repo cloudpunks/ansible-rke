@@ -1,6 +1,6 @@
 ---
 repository:
-  name: rke
+  name: ansible-rke
   description: Ansible role to deploy Kubernetes with Rancher Kubernetes Engine
   topics: ansible, role, ansible-role, hacktoberfest
 
